@@ -1,0 +1,3 @@
+$ evewebsite .gitignore
+
+*.pyc
